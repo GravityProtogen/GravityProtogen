@@ -1,16 +1,50 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/KG9zgUN1o7FiuEOTWh/giphy.gif" width="300"/>
+</div>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/pasilvacosta/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <br>
+  <a href="https://www.youtube.com/channel/UCzpbFbt7rzu4jJFyvdLFKYw">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/GravidadeFox">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<div align=center>
+  (Mostly memes for now)&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  (Mostly art i repost)
+</div>
+<h1>
+ suuuup, I’m Gravity
+</h1>
 
-<!--
-**GravityProtogen/GravityProtogen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- interested in Game Design and all that is tech related
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- currently learning System Analysis and Development in IFPI and Ethical Hacking
+- while learning eletric guitar, art and game making
+- loves tabletop and ACGN (DnD and Metal Gear are my addiction)
+- 📫 you can reach me through discord since its the one i most check: gravityfox
+
+<h2>
+- Languages and Systems:
+</h2>
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original-wordmark.svg" title="CSS"  width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
+</div>
+<h3>
+  <h2>
+- GravityProto is my hacked account, still waiting for github to help me with it
+</h2>
+<a href="https://twitter.com/KobaruAli">
+- Profile art by my great friend: @KobaruAli
+  </a>
+</h3>
