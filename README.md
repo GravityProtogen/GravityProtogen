@@ -44,7 +44,7 @@
   <h2>
 - GravityProto is my hacked account, still waiting for github to help me with it
 </h2>
-<a href="https://twitter.com/KobaruAli">
-- Profile art by my great friend: @KobaruAli
+<a href="https://twitter.com/PolkaPopVT">
+- Profile art by my great friend: @PolkaPopVT
   </a>
 </h3>
