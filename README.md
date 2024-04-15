@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/KG9zgUN1o7FiuEOTWh/giphy.gif" width="300"/>
+  <img src="https://tenor.com/view/signalis-signalis-game-gif-7488704109798705090.gif" width="700" height="200"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/pasilvacosta/">
