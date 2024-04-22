@@ -29,6 +29,10 @@
 - loves tabletop and ACGN (DnD and Metal Gear are my addiction)
 - 📫 you can reach me through discord since its the one i most check: gravityfox
 
+  Profile art by my great friend: <a href="https://twitter.com/PolkaPopVT">
+ @PolkaPopVT
+  </a>
+
 
 <h2>
 - Languages and Systems:
@@ -45,8 +49,8 @@
   <h2>
 - GravityProto is my hacked account, still waiting for github to help me with it
 </h2>
-<img src="https://tenor.com/view/signalis-game-gif-27069953.gif">
-<a href="https://twitter.com/PolkaPopVT">
-- Profile art by my great friend: @PolkaPopVT
-  </a>
+<div id="header" align="center">
+  <img src="https://tenor.com/view/signalis-game-gif-27069953.gif">
+</div>
+
 </h3>
