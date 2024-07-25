@@ -29,7 +29,7 @@
 - loves tabletop and ACGN (DnD and Metal Gear are my addiction)
 - 📫 you can reach me through discord since its the one i most check: gravityfox
 
-  Profile art by my great friend: <a href="https://twitter.com/PolkaPopVT">
+  Profile art by MY AWESOME LOVEYDOVEY BADASS POOKIE CUTIE 🎸🔥🎸🔥🔥: <a href="https://twitter.com/PolkaPopVT">
  @PolkaPopVT
   </a>
 
