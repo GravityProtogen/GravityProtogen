@@ -2,19 +2,15 @@
   <img src="https://tenor.com/view/signalis-signalis-game-gif-7488704109798705090.gif" width="700" height="200"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/pasilvacosta/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <br>
   <a href="https://www.youtube.com/channel/UCzpbFbt7rzu4jJFyvdLFKYw">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://twitter.com/GravidadeFox">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://bsky.app/profile/gravityfox.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky Badge"/>
   </a>
 </div>
 <div align=center>
-  (Mostly memes for now)&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+  (Mostly memes for now)&nbsp &nbsp &nbsp &nbsp &nbsp
   (Mostly art i repost)
 </div>
 <h1>
@@ -32,6 +28,8 @@
   Profile art by MY AWESOME LOVEYDOVEY BADASS POOKIE CUTIE 🎸🔥🎸🔥🔥: <a href="https://twitter.com/PolkaPopVT">
  @PolkaPopVT
   </a>
+  <br><br>
+  Gifs are from the game SIGNALIS
 
 
 <h2>
@@ -45,9 +43,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
 </div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <h3>
   <h2>
-- GravityProto is my hacked account, still waiting for github to help me with it
+- GravityProto is my old hacked account
 </h2>
 <div id="header" align="center">
   <img src="https://tenor.com/view/signalis-game-gif-27069953.gif">
