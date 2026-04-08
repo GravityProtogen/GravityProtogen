@@ -13,7 +13,7 @@
 - loves tabletop and ACGN (DnD and Metal Gear are my addiction)
 - 📫 you can reach me through discord since its the one i most check: gravityfox
 
-  Profile art by MY AWESOME LOVEYDOVEY BADASS POOKIE CUTIE 🎸🔥🎸🔥🔥: <a href="https://twitter.com/PolkaPopVT">
+  Profile art by <a href="https://twitter.com/PolkaPopVT">
  @PolkaPopVT
   </a>
   <br><br>
@@ -31,10 +31,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40"/>&nbsp;
 </div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-<h3>
-<div id="header" align="center">
-  <img src="https://tenor.com/view/signalis-game-gif-27069953.gif">
-</div>
-
-</h3>
