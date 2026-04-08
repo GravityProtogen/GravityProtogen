@@ -45,9 +45,6 @@
 </div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <h3>
-  <h2>
-- GravityProto is my old hacked account
-</h2>
 <div id="header" align="center">
   <img src="https://tenor.com/view/signalis-game-gif-27069953.gif">
 </div>
