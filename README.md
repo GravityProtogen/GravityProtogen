@@ -1,14 +1,6 @@
 <div id="header" align="center">
   <img src="https://tenor.com/view/signalis-signalis-game-gif-7488704109798705090.gif" width="700" height="200"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://www.youtube.com/channel/UCzpbFbt7rzu4jJFyvdLFKYw">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://bsky.app/profile/gravityfox.bsky.social">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky Badge"/>
-  </a>
-</div>
 <div align=center>
   (Mostly memes for now)&nbsp &nbsp &nbsp &nbsp &nbsp
   (Mostly art i repost)
