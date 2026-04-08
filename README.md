@@ -1,12 +1,8 @@
 <div id="header" align="center">
   <img src="https://tenor.com/view/signalis-signalis-game-gif-7488704109798705090.gif" width="700" height="200"/>
 </div>
-<div align=center>
-  (Mostly memes for now)&nbsp &nbsp &nbsp &nbsp &nbsp
-  (Mostly art i repost)
-</div>
 <h1>
- suuuup, I’m Gravity
+ sup, I’m Gravity
 </h1>
 
 - interested in Game Design and all that is tech related
