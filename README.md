@@ -17,7 +17,7 @@
  @PolkaPopVT
   </a>
   <br><br>
-  Gifs are from the game SIGNALIS
+  Gif is from the game SIGNALIS
 
 
 <h2>
